@@ -7,9 +7,9 @@ from discord.activity import CustomActivity
 from discord.errors import LoginFailure
 import json
 from discord.ext import commands
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 # TOKEN = 'ODM5OTc3NTg2Mzg4ODkzNzM2.YJRgFg.h2iAcbK66DyZ0pEs0O6sAk6Bs-E'
 
 
