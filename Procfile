@@ -1,1 +1,1 @@
-worker: python bot/chonky.py
+worker: python3 chonky.py
