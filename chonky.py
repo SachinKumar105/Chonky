@@ -10,7 +10,7 @@ from discord.ext import commands
 from dotenv import load_dotenv
 
 load_dotenv()
-TOKEN = 'ODM5OTc3NTg2Mzg4ODkzNzM2.YJRgFg.h2iAcbK66DyZ0pEs0O6sAk6Bs-E'
+# TOKEN = 'ODM5OTc3NTg2Mzg4ODkzNzM2.YJRgFg.h2iAcbK66DyZ0pEs0O6sAk6Bs-E'
 
 
 # print("lol", loginFlag)
@@ -90,4 +90,4 @@ async def on_ready():
     # global loginFlag
     print('We have logged in as {0.user}'.format(bot))
 
-bot.run(TOKEN)
+bot.run(os.environ['BOT_TOKEN'])
