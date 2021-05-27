@@ -10,7 +10,7 @@ from discord.ext import commands
 # from dotenv import load_dotenv
 
 # load_dotenv()
-TOKEN = 'ODM5OTc3NTg2Mzg4ODkzNzM2.YJRgFg.4Ga0MiFWXe-4xExA4cRRaPpUB1E'
+#TOKEN = 'xxx-ODM5OTc3NTg2Mzg4ODkzNzM2.YJRgFg.5uL7Bxg6OxVa1onmJpfEO7qHI7w-xxx'
 
 
 # print("lol", loginFlag)
